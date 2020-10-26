@@ -25,3 +25,10 @@ step 5 - RUN PROJECT
 rspec
 
 yeah!!! Sucess!!!
+
+List of proposed automation test cases
+
+Validate the successful staus code "2xx" for the categories Products, Stores, Services, Categories.
+Validate the verb Post Success Status: OK
+Validate the verb Get Success Status: to do
+Validate the verb Delete Success Status to do
