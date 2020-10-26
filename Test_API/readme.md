@@ -2,6 +2,9 @@ Pre-requisite
 
 INSTALL THE GIT
 
+Run the Best Buy API playground project
+notes: "check the version of the node, because here it did not run on v14"
+
 configuração do projeto
 
 step 1 - INSTALL THE RBENV
