@@ -28,10 +28,10 @@ yeah!!! Sucess!!!
 
 List of proposed automation test cases
 
-Validar o staus code de sucesso "2xx" para as categorias Products, Stores, Services, Categories.
+Validate the successful staus code "2xx" for the categories Products, Stores, Services, Categories.
 
-Validar o verbo Post Sucesso Status: OK
+Validate the verb Post Success Status: OK
 
-Validar o verbo Get Sucesso Status: a fazer
+Validate the verb Get Success Status: to do
 
-Validar o verbo Delete Sucesso Status a fazer
+Validate the verb Delete Success Status to do
